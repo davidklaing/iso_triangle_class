@@ -1,5 +1,5 @@
 #' An S3 class to represent an isosceles triangle.
-#' Isosceles triangle
+#' iso_triangle
 #' @param base A number.
 #' @param height A number.
 #' @return An isosceles triangle object with a base and a height.
