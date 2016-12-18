@@ -38,8 +38,8 @@ perimeter.iso_triangle <- function(obj){
   print(side*2 + (obj$base))
 }
 
-#test_triangle <- iso_triangle(31,5)
-#test_triangle
+test_triangle <- iso_triangle("31","a")
+test_triangle
 #area.iso_triangle(test_triangle)
 #perimeter.iso_triangle(test_triangle)
 
