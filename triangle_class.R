@@ -19,7 +19,7 @@
 #' @examples
 #' perimeter()
 
-mytriangle <- triangle(3,5,2)
+mytriangle <- triangle(3,5)
 mytriangle
 area.triangle(mytriangle)
 perimeter.triangle(mytriangle)
